@@ -20,8 +20,9 @@ Tipo number sono dati numerici. Boolean sono risposte che il programma da all'ut
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let name = "Vito";
-console.log("Il mio nome: ", name);
+let thor = "Vito";
+console.log("Il mio nome: ", thor);
+
 /* ESERCIZIO 3
  Scrivi il codice necessario ad effettuare un addizione (una somma) dei numeri 12 e 20.
 */
@@ -37,17 +38,20 @@ console.log(number1+number2);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let x= 12;
+let x= 12
+console.log(x)
+
 /* ESERCIZIO 5
   Riassegna un nuovo valore alla variabile "name" già esistente: il tuo cognome.
   Dimostra l'impossibilità di riassegnare un valore ad una variabile dichiarata con il costrutto const.
 */
-name = "Carbone";
-console.log("Il mio cognome: ", name);
+thor = "Carbone";
+console.log("Il mio cognome: ", thor);;
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-const name = "Vito";
-console.log("Il mio nome: ", name);
+thor = "Vito";
+console.log("Il mio nome: ", thor);
+
 /* ESERCIZIO 6
  Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 */
@@ -63,14 +67,14 @@ console.log(x - 4);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let name1 = "john";
-let name2 = "John";
+let pippo= "john";
+let pippo2 = "John";
 
-console.log(name1 === name2);
+console.log(pippo === pippo2);
 
 
 
 /*EXTRA*/
-let name1 = "john";
-let name2 = "John";
-console.log(name1 === name2.toLowerCase());
+et iron12 = "john";
+let iron22 = "John";
+console.log(iron12 === iron22.toLowerCase());
