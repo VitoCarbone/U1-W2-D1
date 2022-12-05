@@ -8,12 +8,12 @@ REGOLE
 */
 
 /* ESERCIZIO 1
- Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
- I datatype sono i tipi di dati che severono alla macchina per capire di che tipo di dati l'operatore sta immettendo o che tipo di dati l'opertare vuole.
- Tipo stringa sono i dati composti da caratteri. Tipo number sono dati numerici. Boolean sono risposte che il programma da all'utente quando fa un operazione e risponde solo con TRUE O FALSE.
-*/
+ Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.*/
 
 /* SCRIVI QUI LA TUA RISPOSTA */
+/*I datatype sono i tipi di dati che severono alla macchina per capire di che tipo di dati l'operatore sta immettendo o che tipo di dati l'opertare vuole.
+Tipo stringa sono i dati composti da caratteri. 
+Tipo number sono dati numerici. Boolean sono risposte che il programma da all'utente quando fa un operazione e risponde solo con TRUE O FALSE./*
 
 /* ESERCIZIO 2
  Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa.
